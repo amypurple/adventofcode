@@ -54,7 +54,6 @@ class day1 {
 class Elfe {
     public int numero;
     public int calories;
-    public ArrayList<Integer> liste = new ArrayList<Integer>();
 
     public Elfe(int index) {
         numero = index;
