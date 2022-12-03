@@ -2,9 +2,13 @@ import java.io.*;
 
 class day2 {
 
-    static Strategie strategie = new Strategie();
+    static Strategie strategie;
 
     public static void main(String[] args) {
+        strategie = new Strategie(false);
+        analyseur("input");
+        System.out.println(strategie);
+        strategie = new Strategie(true);
         analyseur("input");
         System.out.println(strategie);
     }
@@ -27,6 +31,7 @@ class day2 {
 class Strategie {
 
     protected int pointage;
+    protected boolean flag;
 
     String[] strChoix = {
             "INVALID",
@@ -41,21 +46,30 @@ class Strategie {
             "GAGNE",
     };
 
-    public Strategie() {
+    public Strategie(boolean flag) {
         pointage = 0;
+        this.flag = flag;
     }
 
     public void jouer(String ligne) {
-        int elfe;
-        int moi;
-        int resultat;
+        int elfe = 0;
+        int moi = 0;
+        int resultat = 0;
         String[] choix = ligne.split(" ");
         elfe = choix[0].trim().charAt(0) - 'A' + 1;
-        moi = choix[1].trim().charAt(0) - 'X' + 1;
-        resultat = Math.abs((4 + moi - elfe) % 3);
-        System.out.println(
-                "L'elfe fait " + strChoix[elfe] + "(" + elfe + ") et moi je fais " + strChoix[moi] + "(" + moi + ") = "
-                        + strResultat[resultat]);
+        if (flag) {
+            resultat = choix[1].trim().charAt(0) - 'X';
+            moi = (1 + resultat + elfe) % 3 + 1;
+        } else {
+            moi = choix[1].trim().charAt(0) - 'X' + 1;
+            resultat = (4 + moi - elfe) % 3;
+        }
+        /*
+         * System.out.println(
+         * "L'elfe fait " + strChoix[elfe] + "(" + elfe + ") et moi je fais " +
+         * strChoix[moi] + "(" + moi + ") = "
+         * + strResultat[resultat]);
+         */
         pointage += moi + 3 * resultat;
     }
 
