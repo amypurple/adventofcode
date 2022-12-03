@@ -8,7 +8,12 @@ class day1 {
     public static void main(String[] args) {
         analyseur("input");
         triage();
-        System.out.println(elfes.get(elfes.size() - 1));
+        int total = 0;
+        for (int i=1; i<=3 ; i++) {
+            System.out.println("TOP "+i+" - " + elfes.get(elfes.size() - i));
+            total += elfes.get(elfes.size()-i).calories;
+        }
+        System.out.println("TOTAL : " + total);
     }
 
     public static void triage() {
