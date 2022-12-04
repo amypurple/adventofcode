@@ -13,3 +13,7 @@ Roche Papier Ciseaux où le pointage est le total des points selon nos choix (ro
 ## Jour 3
 
 Beaucoup de sacs mal gérés, à nous de calculer les priorités dans chaque sac et les badges d'efforts des groupes de 3 elfes.
+
+## Jour 4
+
+Le nettoyage des sections sont attribuées, mais plusieurs attributions se recoupent, soit partiellement ou entièrement.
