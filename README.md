@@ -28,4 +28,4 @@ Le signal est brouillé, mais il est possible de retrouver l'index du début du 
 
 ## Jour 7
 
-Déterminer les dossiers qui, au total et sans compter le moindre dossier en double, contiennent tout au plus 100000. Quel en ait le total?  
+Déterminer les dossiers qui contiennent tout au plus 100000. Et lequel des sous-dossiers doit-on enlever pour avoir juste assez d'espace pour la mise à jour du système?  
