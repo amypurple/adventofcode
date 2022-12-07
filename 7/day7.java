@@ -6,7 +6,7 @@ class day7 {
     static Lecteur drive = new Lecteur(70000000);
 
     public static void main(String[] args) {
-        analyseur("7/input");
+        analyseur("input");
         drive.directoryFromRoot();
         System.out.println(" Nombre de 'dir' : " + drive.nbrDossiers());
         drive.printTotalDossiersAuPlus(100000);
