@@ -17,3 +17,15 @@ Beaucoup de sacs mal gérés, à nous de calculer les priorités dans chaque sac
 ## Jour 4
 
 Le nettoyage des sections sont attribuées, mais plusieurs attributions se recoupent, soit partiellement ou entièrement.
+
+## Jour 5
+
+Les Cratemover 9000 et 9001 ne donnent pas le même résultat avec la même suite d'instructions de déplacement des caisses empilées. 
+
+## Jour 6
+
+Le signal est brouillé, mais il est possible de retrouver l'index du début du message qui est constitué que ce caractères différents de 4 et de 14 de long.
+
+## Jour 7
+
+Déterminer les dossiers qui, au total et sans compter le moindre dossier en double, contiennent tout au plus 100000. Quel en ait le total?  
