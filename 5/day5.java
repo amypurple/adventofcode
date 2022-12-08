@@ -58,7 +58,7 @@ class day5 {
 
 }
 
-class Pile {
+class EmPile {
     protected String contenu = "";
 
     public void add(char c) {
@@ -101,14 +101,14 @@ class Pile {
 }
 
 class CrateMover {
-    Pile[] piles = new Pile[9];
+    EmPile[] piles = new EmPile[9];
     int maximumPiles = 9;
     int model;
 
     CrateMover(int model) {
         this.model = model;
         for (int i = 0; i < maximumPiles; i++) {
-            piles[i] = new Pile();
+            piles[i] = new EmPile();
         }
     }
 

@@ -29,3 +29,7 @@ Le signal est brouillé, mais il est possible de retrouver l'index du début du 
 ## Jour 7
 
 Déterminer les dossiers qui contiennent tout au plus 100000. Et lequel des sous-dossiers doit-on enlever pour avoir juste assez d'espace pour la mise à jour du système?  
+
+## Jour 8
+
+Est-ce qu'il y a assez d'arbres cachées dans cette plantation? Et si on construit une maison dans un de ces arbres, est-ce qu'il y aura une belle vue?   
