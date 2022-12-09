@@ -33,3 +33,7 @@ Déterminer les dossiers qui contiennent tout au plus 100000. Et lequel des sous
 ## Jour 8
 
 Est-ce qu'il y a assez d'arbres cachées dans cette plantation? Et si on construit une maison dans un de ces arbres, est-ce qu'il y aura une belle vue?   
+
+## Jour 9
+
+Une corde à N noeuds peut servir de pont pour l'elfe. Mais, avant d'en faire un pont, celui-ci se demande quelle trace fait le dernier noeud sur le sol en tirant sur le premier noeud de la corde.

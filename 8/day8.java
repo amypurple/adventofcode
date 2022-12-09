@@ -6,7 +6,7 @@ class day8 {
     static Grille grille = new Grille();
 
     public static void main(String[] args) {
-        analyseur("8/input");
+        analyseur("input");
         System.out.println("Il y a " + grille.nbrTotal() + " arbres dont " + grille.nbrTotalVisible() + " visibles.");
         System.out.println("La plus belle vue a un pointage scenic de " + grille.meilleurScenic());
     }
