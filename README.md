@@ -37,3 +37,7 @@ Est-ce qu'il y a assez d'arbres cachées dans cette plantation? Et si on constru
 ## Jour 9
 
 Une corde à N noeuds peut servir de pont pour l'elfe. Mais, avant d'en faire un pont, celui-ci se demande quelle trace fait le dernier noeud sur le sol en tirant sur le premier noeud de la corde.
+
+## Jour 10
+
+L'elfe tombe à l'eau et se retrouve seul un peu plus loin. Son communicateur a pris l'eau, l'écran n'affiche rien. En étudiant les composants, il réussit à déduire ce qu'il devrait y être affiché.
