@@ -41,3 +41,7 @@ Une corde à N noeuds peut servir de pont pour l'elfe. Mais, avant d'en faire un
 ## Jour 10
 
 L'elfe tombe à l'eau et se retrouve seul un peu plus loin. Son communicateur a pris l'eau, l'écran n'affiche rien. En étudiant les composants, il réussit à déduire ce qu'il devrait y être affiché.
+
+## Jour 11 (très difficile)
+
+Des singes volent et se lancent les items de l'elfe perdu. Après quelques temps, l'elfe déduit la façon dont les singes s'envoient les objets et en pouchasse deux qui sont les plus successibles d'avoir la majorité de ses choses.
