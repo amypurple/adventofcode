@@ -30,7 +30,7 @@ class day9 {
     }
 }
 
-class Coordonnees implements Comparable {
+class Coordonnees implements Comparable<Coordonnees> {
     int x = 0;
     int y = 0;
 
@@ -75,11 +75,10 @@ class Coordonnees implements Comparable {
     }
 
     @Override
-    public int compareTo(Object o) {
-        Coordonnees oo = (Coordonnees) o;
-        return (oo.y < this.y) ? -2
-                : (oo.y == this.y && oo.x < this.x) ? -1
-                        : (oo.y == this.y && oo.x == this.x) ? 0 : (oo.y == this.y && oo.x > this.x) ? 1 : 2;
+    public int compareTo(Coordonnees o) {
+        return (o.y < this.y) ? -2
+                : (o.y == this.y && o.x < this.x) ? -1
+                        : (o.y == this.y && o.x == this.x) ? 0 : (o.y == this.y && o.x > this.x) ? 1 : 2;
     }
 }
 

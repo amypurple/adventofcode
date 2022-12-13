@@ -8,7 +8,7 @@ class day11 {
     static boolean verbose = false;
 
     public static void main(String[] args) {
-        analyseur("11/input");
+        analyseur("input");
         singesRelax.executer(20, verbose);
         singesRelax.totalInspections();
         singesStress.executer(1, verbose);
