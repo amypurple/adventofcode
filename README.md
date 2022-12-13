@@ -20,7 +20,7 @@ Le nettoyage des sections sont attribuées, mais plusieurs attributions se recou
 
 ## Jour 5
 
-Les Cratemover 9000 et 9001 ne donnent pas le même résultat avec la même suite d'instructions de déplacement des caisses empilées. 
+Les Cratemover 9000 et 9001 ne donnent pas le même résultat avec la même suite d'instructions de déplacement des caisses empilées.
 
 ## Jour 6
 
@@ -28,11 +28,11 @@ Le signal est brouillé, mais il est possible de retrouver l'index du début du 
 
 ## Jour 7
 
-Déterminer les dossiers qui contiennent tout au plus 100000. Et lequel des sous-dossiers doit-on enlever pour avoir juste assez d'espace pour la mise à jour du système?  
+Déterminer les dossiers qui contiennent tout au plus 100000. Et lequel des sous-dossiers doit-on enlever pour avoir juste assez d'espace pour la mise à jour du système?
 
 ## Jour 8
 
-Est-ce qu'il y a assez d'arbres cachées dans cette plantation? Et si on construit une maison dans un de ces arbres, est-ce qu'il y aura une belle vue?   
+Est-ce qu'il y a assez d'arbres cachées dans cette plantation? Et si on construit une maison dans un de ces arbres, est-ce qu'il y aura une belle vue?
 
 ## Jour 9
 
@@ -45,3 +45,7 @@ L'elfe tombe à l'eau et se retrouve seul un peu plus loin. Son communicateur a 
 ## Jour 11 (très difficile)
 
 Des singes volent et se lancent les items de l'elfe perdu. Après quelques temps, l'elfe déduit la façon dont les singes s'envoient les objets et en pouchasse deux qui sont les plus successibles d'avoir la majorité de ses choses.
+
+## Jour 12
+
+Combien de pas jusqu'à l'endroit idéal pour communiquer avec les autres elfes par talkie-walkie? Et combien pas serait le chemin si c'était pour une descente vers le bas le plus rapidement possible sans se casser le cou?
