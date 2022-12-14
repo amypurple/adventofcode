@@ -46,6 +46,10 @@ L'elfe tombe à l'eau et se retrouve seul un peu plus loin. Son communicateur a 
 
 Des singes volent et se lancent les items de l'elfe perdu. Après quelques temps, l'elfe déduit la façon dont les singes s'envoient les objets et en pouchasse deux qui sont les plus successibles d'avoir la majorité de ses choses.
 
-## Jour 12
+## Jour 12 (Dijkstra)
 
 Combien de pas jusqu'à l'endroit idéal pour communiquer avec les autres elfes par talkie-walkie? Et combien pas serait le chemin si c'était pour une descente vers le bas le plus rapidement possible sans se casser le cou?
+
+## Jour 13
+
+Réception et clé de décodage du signal de détresse capté par le talkie-walkie. Triage de données structurées en arbre mais écrites sous forme de listes imbriquées. (similaire à langage Python)
