@@ -53,3 +53,7 @@ Combien de pas jusqu'à l'endroit idéal pour communiquer avec les autres elfes 
 ## Jour 13
 
 Réception et clé de décodage du signal de détresse capté par le talkie-walkie. Triage de données structurées en arbre mais écrites sous forme de listes imbriquées. (similaire à langage Python)
+
+## Jour 14
+
+Sable qui soudainement rempli la caverne où l'elfe s'est rendu.
