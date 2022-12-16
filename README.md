@@ -57,3 +57,7 @@ Réception et clé de décodage du signal de détresse capté par le talkie-walk
 ## Jour 14
 
 Sable qui soudainement rempli la caverne où l'elfe s'est rendu.
+
+## Jour 15
+
+Trouver la personne à sauver qui se retrouve dans un petit espace non détecté par les capteurs.
